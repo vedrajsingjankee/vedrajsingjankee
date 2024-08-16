@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedrajsing Jankee
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and Figma
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
